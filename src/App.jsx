@@ -13,7 +13,7 @@ const App = () => {
       <NBanner />
       <FAQs />
       <NForm />
-    </div>
+    </div> 
   );
 };
 
